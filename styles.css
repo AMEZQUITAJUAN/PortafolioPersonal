@@ -11,6 +11,12 @@ header {
     padding: 1rem;
     text-align: center;
 }
+header img {
+    white:150px;
+    max-width: 150px; /* Tamaño máximo */
+    height: auto;
+    border-radius: 50%;
+}
 
 nav ul {
     list-style-type: none;
